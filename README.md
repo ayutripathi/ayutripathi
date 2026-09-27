@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Ayush Tripathi 👋
 
-<!--
-**ayutripathi/ayutripathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### QA / Software Testing Enthusiast
 
-Here are some ideas to get you started:
+I'm a B.Tech Computer Science student building practical experience in
+software testing and quality assurance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧪 What I'm Learning
+
+- Manual Testing
+- Test Case Design
+- Bug Reporting
+- API Testing
+- SQL for QA
+- Test Automation
+- Selenium
+- Python
+
+### 🚀 Current Focus
+
+I'm currently building hands-on QA projects covering:
+
+- Web application testing
+- Functional testing
+- Test case design
+- Defect identification and reporting
+- API testing
+- Test automation
+
+### 📂 Projects
+
+| Project | Area | Status |
+|---|---|---|
+| Manual Web Form Testing | Manual Testing | Completed |
+
+More projects will be added as I continue learning and building.
+
+### 🛠️ Tools & Technologies
+
+`Git` `GitHub` `Postman` `SQL` `Python` `Selenium`
+
+### 🎯 Goal
+
+To build strong practical skills in software quality assurance
+and grow into a well-rounded QA/SDET professional.
